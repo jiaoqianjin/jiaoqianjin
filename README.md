@@ -1,5 +1,5 @@
 # Hi,I'm Jiao Qianjin! 👋
-后端开发工程师
+Java后端开发工程师
 
 <img src="https://github-readme-stats.vercel.app/api?username=jiaoqianjin&show_icons=true&theme=vue" alt="logo" height="220" align="right" width="50%" />
 
