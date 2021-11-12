@@ -23,6 +23,6 @@ Java后端开发工程师
 [![简书](https://img.shields.io/badge/-简书-c14438?style=flat-square&logo=简&logoColor=white)](https://www.jianshu.com/u/f0c8ba956838)
 
 ## GitHub Infos
-<img src="https://github-profile-trophy.vercel.app/?username=jiaoqianjin&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto;" />
+<img src="https://github-profile-trophy.vercel.app/?username=jiaoqianjin&theme=flat&column=8" alt="logo" height="160" align="center" style="margin: auto;" />
 
  
