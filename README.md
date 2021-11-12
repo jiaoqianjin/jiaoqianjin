@@ -9,7 +9,8 @@ Java后端开发工程师
 - 🌱 I’m currently learning 【微服务】【大数据】
 - 📫 How to reach me: jiaoqianjin@163.com
 - ⚡ Motto: 须知少时凌云志，曾许人间第一流。
-- ask me about anything, i am happy to help
+- ⚡ Fun fact: Badminton、Lego
+- 🤔 ask me about anything, i am happy to help
 
 
 
