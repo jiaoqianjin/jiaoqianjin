@@ -1,7 +1,7 @@
 # Hi,I'm Jiao Qianjin! 👋
 Java后端开发工程师
 
-<img src="https://github-readme-stats.vercel.app/api?username=jiaoqianjin&show_icons=true&theme=vue" alt="logo" height="220" align="right" width="50%" />
+<img src="https://github-readme-stats.vercel.app/api?username=jiaoqianjin&show_icons=true&theme=vue" alt="logo" height="160" align="right" width="50%" />
 
 
 - 🔭 I'm a Front-end developer working in China, Henan
