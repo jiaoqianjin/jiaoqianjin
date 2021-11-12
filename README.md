@@ -3,10 +3,14 @@ Java后端开发工程师
 
 <img src="https://github-readme-stats.vercel.app/api?username=jiaoqianjin&show_icons=true&theme=vue" alt="logo" height="220" align="right" width="50%" />
 
+
+
 - 🔭 I’m currently working on 河南特觅科网络技术有限公司
 - 🌱 I’m currently learning Hadoop
 - 📫 How to reach me: jiaoqianjin@163.com
 - ⚡ Motto: 须知少时凌云志，曾许人间第一流。
+
+
 
 ## Follow Me
 ![访问个人主页数量](https://komarev.com/ghpvc/?username=jiaoqianjin&color=green)
