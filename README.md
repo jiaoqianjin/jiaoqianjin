@@ -5,8 +5,8 @@ Java后端开发工程师
 
 
 - 🔭 I'm a Front-end developer working in China, Henan
-- 📝 I’m currently working on 河南特觅科网络技术有限公司
-- 🌱 I’m currently learning 【微服务】【大数据】
+- 📝 I’m currently working on 依图科技
+- 🌱 I’m currently learning 【人工智能】【人脸识别】【大数据】
 - 📫 How to reach me: jiaoqianjin@163.com
 - ⚡ Motto: 须知少时凌云志，曾许人间第一流。
 - ⚡ Fun fact: Badminton、Lego
